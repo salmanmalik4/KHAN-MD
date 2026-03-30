@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_DJ~9vgj0I4J#awWPdngf_aWM5xWIzOmPpRuDu3pzGpl2sIi0lIz5jVY": {
       "description": "Put the session-id here. (Required)",
       "required": true,
       "value": ""
